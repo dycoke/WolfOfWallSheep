@@ -17,7 +17,6 @@ while running:
         if event.type == pygame.QUIT:
             running = False
         
-        #test
 
         screen.fill((0, 0, 0))
         pygame.display.update()
