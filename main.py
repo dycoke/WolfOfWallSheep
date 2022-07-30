@@ -3,6 +3,7 @@ import pygame
 #initiate the game
 pygame.init()
 
+#idk how to use pygame it looks dumb
 #screen
 screen = pygame.display.set_mode((800, 600))
 
